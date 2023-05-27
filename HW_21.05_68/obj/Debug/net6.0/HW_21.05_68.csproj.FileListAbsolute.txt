@@ -1,0 +1,15 @@
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\bin\Debug\net6.0\HW_21.05_68.exe
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\bin\Debug\net6.0\HW_21.05_68.deps.json
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\bin\Debug\net6.0\HW_21.05_68.runtimeconfig.json
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\bin\Debug\net6.0\HW_21.05_68.dll
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\bin\Debug\net6.0\HW_21.05_68.pdb
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.csproj.AssemblyReference.cache
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.AssemblyInfoInputs.cache
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.AssemblyInfo.cs
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.csproj.CoreCompileInputs.cache
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.dll
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\refint\HW_21.05_68.dll
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.pdb
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\HW_21.05_68.genruntimeconfig.cache
+C:\Users\Persephone\Desktop\C#\Homework_CSharp\Homework_CSharp\HW_21.05_68\obj\Debug\net6.0\ref\HW_21.05_68.dll
